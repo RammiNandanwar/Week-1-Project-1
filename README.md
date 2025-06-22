@@ -2,7 +2,7 @@
 
 ** Project 1: ** Virtual Business Card
 
-A beginner-friendly digital business card built using HTML and CSS. It displays your personal info just like a printed business card, but online.
+A beginner-friendly digital business card built using HTML and CSS. It displays your personal info just like a printed business card.
 
 ## Features
 - Name and career title
